@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kumarkaushal920/kumarkaushal920/blob/master/readme.gif">
+  <img src="https://github.com/kumarkaushal920/kumarkaushal920/readme.gif">
 </p>
  
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
