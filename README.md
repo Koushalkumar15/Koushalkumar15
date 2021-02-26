@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/kumarkaushal920/kumarkaushal920/readme.gif">
-</p>
+</p> -->
  
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kumarkaushal920 alt=kumarkaushal920/></p>
