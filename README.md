@@ -35,6 +35,6 @@
 <code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
 
 ### How to connect with me:question::email:
-:star: <code>[Mail](mailto:kumarkaushal920@gmail.com)</code>    
-:star: <code>[LinkedIn](https://www.linkedin.com/in/chandrika-deb/)</code>  
+:star: <code>[Mail](mailto:kumarkaushal920.ai@gmail.com)</code>    
+:star: <code>[LinkedIn](https://www.linkedin.com/in/koushalkumar/)</code>  
 
