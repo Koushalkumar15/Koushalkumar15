@@ -6,13 +6,13 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kumarkaushal920 alt=kumarkaushal920/></p>
 
 
-### Wanna stalk my website:question::point_right: [Click Here](https://Koushalkumar15.github.io/):sparkles:
+### Wanna stalk my website :question::point_right: [Click Here](https://Koushalkumar15.github.io/):sparkles:
 
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a Systems Engineer at [Tata Consultancy Services](https://www.tcs.com/)"</code>
 
 ### What am working with :question::point_down:	
-<code>List<String> list = List.of("Java", "Microservices", "SpringBoot", "AWS"); </code>
+<code> List \<String\> list = List.of("Java", "Microservices", "SpringBoot", "AWS"); </code>
 
 
 ### What can I help with:question::cyclone:
