@@ -12,13 +12,13 @@
 <code>git commit -m "Hello, I'm a Systems Engineer at [Tata Consultancy Services](https://www.tcs.com/)"</code>
 
 ### What am working with :question::point_down:	
-<code> List \<String\> list = List.of("Java", "Microservices", "SpringBoot", "AWS"); </code>
+<code> List\<String\> list = List.of("Java", "Microservices", "SpringBoot", "AWS"); </code>
 
 
-### What can I help with:question::cyclone:
+### What can I help with :question::cyclone:
 <code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
 
-### How to connect with me:question::email:
+### How to connect with me :question::email:
 :star: <code>[Mail](mailto:kumarkaushal920.ai@gmail.com)</code>    
 :star: <code>[LinkedIn](https://www.linkedin.com/in/koushalkumar/)</code>  
 
