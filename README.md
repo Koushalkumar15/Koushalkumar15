@@ -6,7 +6,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kumarkaushal920 alt=kumarkaushal920/></p>
 
 
-### Wanna stalk my website:question::point_right: [Click Here](https://kumarkaushal920.github.io/):sparkles:
+### Wanna stalk my website:question::point_right: [Click Here](https://Koushalkumar15.github.io/):sparkles:
 
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a Systems Engineer at [Tata Consultancy Services](https://www.tcs.com/)"</code>
